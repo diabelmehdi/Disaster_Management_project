@@ -1,0 +1,13 @@
+.supl {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-align: justify;
+  padding-left: 3%;
+  padding-right: 5%;
+  margin: 0%;
+}
+ul.a {
+  list-style-type: square;
+}
